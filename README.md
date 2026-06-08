@@ -1,0 +1,1 @@
+# CODEC-INTERNSHIP-PROJECT-2-Image-Based-Disease-Detection-Pneumonia-from-X-rays-
